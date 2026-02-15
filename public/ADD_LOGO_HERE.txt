@@ -1,0 +1,22 @@
+LOGO SETUP INSTRUCTIONS
+========================
+
+Please save the NyayaLens AI logo image you provided as:
+
+Filename: logo.png
+Location: This folder (nyayalens-ai/public/)
+
+Steps:
+1. Download/save the NyayaLens AI logo image
+2. Rename it to: logo.png
+3. Place it in: nyayalens-ai/public/logo.png
+4. Refresh your browser at http://localhost:3000/dashboard
+
+The logo will automatically appear in:
+- Top-left corner of the dashboard navbar
+- All pages with the DashboardNavbar component
+
+Expected dimensions: 400x100 pixels (or similar aspect ratio)
+Format: PNG with transparent background (recommended)
+
+Once added, you can delete this instruction file.
